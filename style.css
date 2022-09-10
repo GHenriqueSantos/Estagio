@@ -203,6 +203,7 @@ input[type="checkbox"]{
         height: 50%;
         position: absolute;
         left: -350px;
+        transition: all .5s;
     }
     input[type="checkbox"]:checked ~ nav{
     
@@ -242,7 +243,6 @@ input[type="checkbox"]{
     
     }
     
-
     .imagem{
         background-image: url('imagens/cabeçario.png');
         height: 450px;
@@ -308,9 +308,7 @@ input[type="checkbox"]{
     .nav-segundo{
         background-color: #29abe2;;
         width: 250px;
-        position: absolute;
-        
-        
+        position: absolute; 
     }
     .li {
         display: none;
