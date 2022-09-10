@@ -245,7 +245,7 @@ input[type="checkbox"]{
     
     .imagem{
         background-image: url('imagens/cabeçario.png');
-        height: 550px;
+        height: 450px;
     }
     .nav-pri {
         padding: 1.5rem 4rem;
@@ -299,7 +299,7 @@ input[type="checkbox"]{
    
    
     .imagem{
-        background-image: url('imagens/mobile.jpg');
+        background-image: url('imagens/celular.jpg');
         height: 650px;
     }
     .nav-pri {
